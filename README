@@ -1,0 +1,18 @@
+NSSOreaddata
+
+Scripts provided here can be used to read National Sample Survey
+Organisation's unit-level data from various surveys. The scripts
+output csv tables. In future, the scripts will be modified to directly
+create MySQL/POSTGRESQL database tables.
+
+NSSO unit-level data are not provided along with the scripts. These
+have to be obtained independently from NSSO
+(http://mospi.gov.in/nsso_4aug2008/web/nsso/Unitdata.htm).
+
+Scripts are provided under GNU/GPL (V3.0 or higher) license.
+
+
+
+
+
+
